@@ -18,3 +18,13 @@ php artisan key:generate
 
 Quinto
 ejecutar las migraciones y seeders: php artisan migrate --seed
+
+Sexto
+php artisan serve
+
+usuarios:
+admin: eddy@gmail.com
+tripulante: hay que crear el rol en uno de los usuarios
+usuario normal: cualquiera que no tenga rol
+
+contraseña para todos los usuarios: administrador
